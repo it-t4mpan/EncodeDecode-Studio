@@ -1,4 +1,6 @@
-Tool yang telah kita buat, yang bisa kita sebut sebagai "Encode Decode Studio", adalah aplikasi web yang dirancang untuk melakukan berbagai operasi konversi data. Berikut adalah penjelasan fungsi dan kegunaan dari tool ini:
+
+
+"Encode Decode Studio", adalah aplikasi web yang dirancang untuk melakukan berbagai operasi konversi data. Berikut adalah penjelasan fungsi dan kegunaan dari tool ini:
 
 1. Base64 Encode dan Decode
 Base64 Encode: Mengonversi data (seperti teks atau file biner) menjadi string Base64. Ini berguna untuk mengirimkan data melalui media yang biasanya dirancang untuk menangani teks, seperti ketika menyematkan data gambar dalam format HTML atau CSS.
