@@ -1,4 +1,9 @@
 
+<img width="756" alt="Screenshot 2024-05-07 at 12 07 44" src="https://github.com/it-t4mpan/EncodeDecode-Studio/assets/168879273/5fff03e1-9dea-404c-befd-10330d6ddcde">
+
+-------------------------
+|
+-------------------------
 
 "Encode Decode Studio", adalah aplikasi web yang dirancang untuk melakukan berbagai operasi konversi data. Berikut adalah penjelasan fungsi dan kegunaan dari tool ini:
 
